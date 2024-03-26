@@ -140,3 +140,7 @@ VALUES (1, 'Oliver' ,'Osorio' , '18',);
 INSERT INTO Alunos
 (ID,Nome,Sobrenome,Idade,)
 VALUES (1, 'Alice' ,'Campos' , '17',);
+
+INSERT INTO Alunos
+(ID,Nome,Sobrenome,Idade,)
+VALUES (1, 'Rafaella' ,'Santos' , '16',);
